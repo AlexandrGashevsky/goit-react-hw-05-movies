@@ -13,7 +13,6 @@ const App = () => (
         <Route path="/" exact>
           <HomePage />
         </Route>
-
         <Route path="/movies/:movieId">
           <MovieDetailsPage />
         </Route>
