@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/731.0f6e46fe.chunk.css","mappings":"AACA,QACE,YACF,CACA,MAEI,aAAc,CADd,cAEJ,CACA,YACI,aAAc,CACd,aACJ","sources":["pages/HomePage/HomePage.css"],"sourcesContent":["\n.Trends {\n  padding: 30px;  \n}\n.link {\n    font-size: 18px;\n    color: #2a363b;\n}\n.activeLink {\n    composes: link;\n    color: #2196f3;\n}"],"names":[],"sourceRoot":""}
