@@ -1,0 +1,9 @@
+.CastItems {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.CastItem {
+    width: 200px;
+}
+

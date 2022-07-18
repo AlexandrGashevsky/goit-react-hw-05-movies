@@ -1,0 +1,18 @@
+.toPrevPageBtn {
+    padding: 10px;
+    color: white;
+    background-color: rgb(3, 180, 71);
+    border-style: none;
+    border-radius: 3px;
+    margin-left: 20px;
+    transition: 500ms;
+    font-size: 13px;
+}
+
+.toPrevPageBtn:hover,
+.toPrevPageBtn:focus{
+    padding-left: 15px;
+    padding-right: 15px;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
